@@ -1,0 +1,15 @@
+That's all there is to it!
+In fact, you use the same format to enter list items in the editor box!
+Sponge auto-saves to an easily-readable text format
+It works in combination with the "bulk re-tag filtered items" command in the bottom left!
+The search box at the top is free-form
+This encourages you to write short to-dos, and break things down into manageable steps!
+Items that are too long are shaded in red. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lor...
+Sponge comes with a set of pre-configured tag images from the free Fugue icon set
+Tag images may be any 16x16 GIF or PNG image, or a Windows ICO
+(warning audio flagged) If those tags are given images in the tag editor, they display as images in the right column
+(blue red green) Sponge supports tags
+~ Checked-off items, like this one, vanish from the inbox but appear in Done
+There are four views: Inbox, All, Untagged, and Done
+New items appear at the top, and may not be rearranged
+Sponge is a streamlined to-do list manager; there are no distractions
